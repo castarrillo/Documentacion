@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "a0a182cfa5b82474",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b2fd2c59e2c53d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a459717931bd32c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Omarchy/Omarchy 4.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Omarchy 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6acec4ee44aef711",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a1dd0813075ff94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "859044a889b62412",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "86003250e0be2f49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1dbad7d2b745f14a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "430632d9bf744078",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9aba8f9c77ec783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a634fd3db915fc3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Omarchy/Omarchy 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7f8fd40746c59dbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Omarchy/Omarchy 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c56c9c9d4be537e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "18ae4d5162558f7a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "33bf8ec6f4b23ffc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Omarchy/Omarchy 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9a459717931bd32c",
+  "lastOpenFiles": [
+    "Inicio.md",
+    "05 Neovim/Ruta de cero a pro.md",
+    "05 Neovim/Neovim y LazyVim.md",
+    "05 Neovim/Ayuda integrada y documentación oficial.md",
+    "01 Omarchy/Shell temas y plugins.md",
+    "03 Hyprland/Hyprland en Omarchy.md",
+    "03 Hyprland/Configuración Lua y depuración.md",
+    "03 Hyprland/Aspecto animaciones y workspaces.md",
+    "02 Arch Linux/Rescate desde USB.md",
+    "02 Arch Linux/Paquetes y actualizaciones.md",
+    "02 Arch Linux/Arranque kernel y hardware.md",
+    "02 Arch Linux/Arch Linux.md",
+    "01 Omarchy/Personalización paso a paso.md",
+    "01 Omarchy/Omarchy 4.md",
+    "01 Omarchy/Instalación seguridad y recuperación.md",
+    "01 Omarchy/Guía del manual oficial.md",
+    "01 Omarchy/Escritorio red y periféricos.md",
+    "01 Omarchy/CLI configuración y mantenimiento.md",
+    "01 Omarchy/Atajos y flujos.md",
+    "01 Omarchy/Aplicaciones desarrollo y automatización.md",
+    "08 Recetas del equipo/Recetario de tareas comunes.md",
+    "08 Recetas del equipo/Recetario de tareas comunes.md.tmp.140015.0db24fa61654",
+    "07 Herdr/Herdr avanzado.md",
+    "06 Tmux/Tmux avanzado.md",
+    "06 Tmux/Tmux avanzado.md.tmp.140015.faa88bc5ae97",
+    "04 Bash/Ruta de cero a pro.md",
+    "04 Bash/Ruta de cero a pro.md.tmp.140015.087786bd6dc4",
+    "04 Bash/Herramientas de línea de órdenes.md",
+    "04 Bash/Herramientas de línea de órdenes.md.tmp.140015.e5782aee9326",
+    "03 Hyprland/Recetas de Hyprland.md",
+    "03 Hyprland/Recetas de Hyprland.md.tmp.140015.a99d79c8ba5e",
+    "03 Hyprland/Aspecto animaciones y workspaces.md.tmp.140015.37c372d23374",
+    "02 Arch Linux/Rescate desde USB.md.tmp.140015.427cd9cb6bf4",
+    "02 Arch Linux/Arranque kernel y hardware.md.tmp.140015.6d1f9810ff81",
+    "01 Omarchy/sedpVTHex",
+    "01 Omarchy/Personalización paso a paso.md.tmp.140015.3b20efc5d224"
+  ]
+}
