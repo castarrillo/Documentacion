@@ -6,7 +6,7 @@ verificado_en: "Omarchy 4.0.4-1"
 ---
 # Ruta de aprendizaje
 
-Siete sesiones cortas, en orden, pensadas para alguien nuevo en Linux. Si vienes de Windows o macOS, lee antes [[01 Omarchy/Primeros pasos]]; los conceptos básicos (archivos, permisos, procesos) están en [[00 Fundamentos/Conceptos de Linux]]. Cada una termina con una **comprobación**: si puedes hacerla sin mirar la nota, pasa a la siguiente. Vuelve a [[Inicio]] cuando quieras.
+Siete sesiones cortas, en orden, pensadas para alguien nuevo en Linux. Si vienes de Windows o macOS, lee antes [[01 Omarchy/Primeros pasos]]; los conceptos básicos (archivos, permisos, procesos) están en [[00 Fundamentos/Conceptos de Linux]]. Cada una termina con una **comprobación**: si puedes hacerla sin mirar la nota, pasa a la siguiente. Vuelve a [[README]] cuando quieras.
 
 ## 1. Orientación (30 min)
 

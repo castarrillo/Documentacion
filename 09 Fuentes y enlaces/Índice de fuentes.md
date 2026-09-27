@@ -84,4 +84,4 @@ hyprctl -h                            referencia de hyprctl
 man bash · man tmux · man pacman · :help (Neovim)
 ```
 
-Historial de cambios del vault: [[09 Fuentes y enlaces/Registro de revisión]] · [[Inicio|Volver al índice]]
+Historial de cambios del vault: [[09 Fuentes y enlaces/Registro de revisión]] · [[README|Volver al índice]]

@@ -102,4 +102,4 @@ Términos usados en todo el vault. Cuando una palabra significa cosas distintas 
 | **Mason** | Instalador de servidores LSP, formateadores y linters. |
 | **Extra [LazyVim]** | Módulo opcional activable con `:LazyExtras`. |
 
-[[Inicio|Volver al índice]]
+[[README|Volver al índice]]

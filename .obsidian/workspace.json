@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Omarchy/Omarchy 4.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Omarchy 4"
+              "title": "README"
             }
           }
         ]
@@ -188,9 +188,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a459717931bd32c",
+  "active": "859044a889b62412",
   "lastOpenFiles": [
-    "Inicio.md",
+    "01 Omarchy/Omarchy 4.md",
+    "README.md",
     "05 Neovim/Ruta de cero a pro.md",
     "05 Neovim/Neovim y LazyVim.md",
     "05 Neovim/Ayuda integrada y documentación oficial.md",
@@ -203,7 +204,6 @@
     "02 Arch Linux/Arranque kernel y hardware.md",
     "02 Arch Linux/Arch Linux.md",
     "01 Omarchy/Personalización paso a paso.md",
-    "01 Omarchy/Omarchy 4.md",
     "01 Omarchy/Instalación seguridad y recuperación.md",
     "01 Omarchy/Guía del manual oficial.md",
     "01 Omarchy/Escritorio red y periféricos.md",
